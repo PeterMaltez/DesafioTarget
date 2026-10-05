@@ -1,0 +1,14 @@
+C:\Users\pedro\projetos\desafioTarget\obj\Debug\net10.0\desafioTarget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\projetos\desafioTarget\obj\Debug\net10.0\desafioTarget.AssemblyInfoInputs.cache
+C:\Users\pedro\projetos\desafioTarget\obj\Debug\net10.0\desafioTarget.AssemblyInfo.cs
+C:\Users\pedro\projetos\desafioTarget\obj\Debug\net10.0\desafioTarget.csproj.CoreCompileInputs.cache
+C:\Users\pedro\projetos\desafioTarget\bin\Debug\net10.0\desafioTarget.exe
+C:\Users\pedro\projetos\desafioTarget\bin\Debug\net10.0\desafioTarget.deps.json
+C:\Users\pedro\projetos\desafioTarget\bin\Debug\net10.0\desafioTarget.runtimeconfig.json
+C:\Users\pedro\projetos\desafioTarget\bin\Debug\net10.0\desafioTarget.dll
+C:\Users\pedro\projetos\desafioTarget\bin\Debug\net10.0\desafioTarget.pdb
+C:\Users\pedro\projetos\desafioTarget\obj\Debug\net10.0\desafioTarget.dll
+C:\Users\pedro\projetos\desafioTarget\obj\Debug\net10.0\refint\desafioTarget.dll
+C:\Users\pedro\projetos\desafioTarget\obj\Debug\net10.0\desafioTarget.pdb
+C:\Users\pedro\projetos\desafioTarget\obj\Debug\net10.0\desafioTarget.genruntimeconfig.cache
+C:\Users\pedro\projetos\desafioTarget\obj\Debug\net10.0\ref\desafioTarget.dll

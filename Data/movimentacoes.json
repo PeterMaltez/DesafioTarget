@@ -1,0 +1,32 @@
+{
+  "movimentacoes": [
+    {
+      "codigoMovimentacao": 1,
+      "codigoProduto": 101,
+      "tipo": "SAÍDA",
+      "quantidade": 5,
+      "data": "2026-10-05T13:21:22.0110523-03:00"
+    },
+    {
+      "codigoMovimentacao": 2,
+      "codigoProduto": 101,
+      "tipo": "ENTRADA",
+      "quantidade": 2,
+      "data": "2026-10-05T13:28:37.5048164-03:00"
+    },
+    {
+      "codigoMovimentacao": 3,
+      "codigoProduto": 105,
+      "tipo": "ENTRADA",
+      "quantidade": 41,
+      "data": "2026-10-05T13:44:24.0022283-03:00"
+    },
+    {
+      "codigoMovimentacao": 4,
+      "codigoProduto": 103,
+      "tipo": "ENTRADA",
+      "quantidade": 4,
+      "data": "2026-10-05T14:35:22.0024034-03:00"
+    }
+  ]
+}
