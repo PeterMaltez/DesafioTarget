@@ -6,7 +6,7 @@ Este projeto é um console em C# que organiza os três desafios em um único men
 
 Ao iniciar a aplicação, o usuário verá este menu:
 
-=== MENU ===
+=== MENU ===  
 1 - Desafio 1: Cálculo de comissões  
 2 - Desafio 2: Movimentação de estoque  
 3 - Desafio 3: Cálculo de juros  
